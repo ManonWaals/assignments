@@ -32,8 +32,14 @@ Education
 
 Professional Experience
 -----------------------
+* 2010-present: **Saleswoman**
+  * Giving advice about products to customers. Because of this I have learned to look at what the customer really wants and respond to them with the best possible advice.
+  * Solving customers complaints. Because of this I have learned to come up with the best possible solution which is both in favour of the customer as well as the company.
+  * Helping customers at the cash register.
+  * Filling the shelves and presenting products in the right way.
+  * Ordering products if they are out of stock.
 
-Voluteer Work
+  Voluteer Work
 -------------
 
 Language Skills
