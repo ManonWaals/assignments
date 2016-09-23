@@ -14,9 +14,9 @@ Personalia
 
 Education
 ----------
-* 2016 - present: Master Behavioral Economics
-* 2013 - 2016: Bachelor Economics & Business Economics
-* 2007 - 2013: Atheneum
+* 2016 - present: **Master Behavioral Economics**
+* 2013 - 2016: **Bachelor Economics & Business Economics**
+* 2007 - 2013: **Atheneum**
 
 Professional Experience
 -----------------------
