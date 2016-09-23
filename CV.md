@@ -15,8 +15,15 @@ Personalia
 Education
 ----------
 * 2016 - present: **Master Behavioral Economics**
+
+                  Tilburg University
 * 2013 - 2016: **Bachelor Economics & Business Economics**
-* 2007 - 2013: **Atheneum**
+
+                  Tilburg University
+* 2007 - 2013: **Atheneum, Economie & Maatschappij and Cultuur & Maatschappij**
+
+                  Varendonck College Asten
+
 
 Professional Experience
 -----------------------
