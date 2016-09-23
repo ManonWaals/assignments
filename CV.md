@@ -14,16 +14,21 @@ Personalia
 
 Education
 ----------
-* 2016 - present: **Master Behavioral Economics**
+* 2016 - present: **Master Economics**
 
                   Tilburg University
+                  Track: Behavioral Economics
+
 * 2013 - 2016: **Bachelor Economics & Business Economics**
 
                   Tilburg University
+                  Extra courses: Linear Algebra and Marketing 2: Consumentengedrag
+                  Average grade: 7.39
+                  
 * 2007 - 2013: **Atheneum, Economie & Maatschappij and Cultuur & Maatschappij**
 
                   Varendonck College Asten
-
+                  Extra Courses: French and Biology
 
 Professional Experience
 -----------------------
