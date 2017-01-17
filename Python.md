@@ -29,7 +29,7 @@ First of all we used data about the unemployment rate. This data is gathered fro
 **Google Trends**  
 The other source we used is Google Trends. We use index numbers for the amount of searches for specific words, that we think people will search for when they are unemployed. We have choosen 6 words, where some of them indicate search for unemployment benefits and others indicate searches for a new job.
 
-#Importing packages and libraries
+##Importing packages and libraries
 
 
 
