@@ -29,6 +29,10 @@ the data from 2010 to 2015 and looked at the unemploymet rate on a monthly basis
 **Google Trends**
 The other source we used is Google Trends. We use index numbers for the amount of searches for specific words, that we think people will search for when they are unemployed. We have choosen **7??** words, where some of them indicate search for unemployment benefits and others indicate searches for a new job.
 
+#Importing packages and libraries
+
+
+
 ##Results
 
 
