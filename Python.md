@@ -8,6 +8,9 @@
 Can we predict the unemployment rate in the Netherlands with google searching? / Is there a correlation between google searching and the actual unemployment rate in the Netherlands?
 
 ##Motivation
+This research is inspired by 'Detecting influenza epidemics using search engine query data' Ginsberg et Al. (2009). In this study they show they can estimate the level of influenza by looking at the online searching behavior of people. With online searching behavior we mean that when people feel sick they are looking on the internet for their symptoms. The conclusions they found are very important. With an early detection of the disease, in this case by looking at online search behavior, the impact of influenza can be reduced.  
+In this research however we want to take a look at another important problem of the present days. We will investigate whehter we can predict the real unemployment rate in the Netherlands by using google searching. Information about the unemployment rate can be very important because online searching behavior of people, like in the case of influenza, can reduce the unemployment rate. This is the case because the government can take actions in an earlier stage before unemployment rate actually went up.
+
 In this assignment we will investigate wether we can predict the unemployment rate in the Netherlands wth google trends. 
 Information about the unemployment rate can be valuable to the state and companies and therefore it could be interesting to see if we can use google trends as a proxy for the unemployment rate. If we look at google trends, we mean searching words such as 'niewe baan' ('new job') and uwv (which is an institution that helps unemployed people in the Netherlands to find a job). This research is inspired by 'Detecting influenza epidemics using search engine query data' Ginsberg et Al. (2009). Here they show that they can try to predict the flue outbreak. 
 
