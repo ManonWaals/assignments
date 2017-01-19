@@ -14,7 +14,7 @@ In this research however we want to take a look at another important problem of 
 This study begins with a short summary about the method and the answer on the research question. Then we will give a more detailed explanation about the main assumptions and the data we used. This is followed by the results. We will end this study with a conclusion and discussion.
 
 ##Method
-In this assignment we were able to find data about both the unemployment rate in the Netherlands as well as data from google searching/google trends. For the unemployment rate we gathered data from Statistics Netherlands (CBS). For the google searching we decided to pick 6 words that we think are related with either unemployment or finding a new job.
+In this assignment we were able to find [data](##Data) about both the unemployment rate in the Netherlands as well as data from google searching/google trends. For the unemployment rate we gathered data from Statistics Netherlands (CBS). For the google searching we decided to pick 6 words that we think are related with either unemployment or finding a new job.
 
 ##Answer
 
