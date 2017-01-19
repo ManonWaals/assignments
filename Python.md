@@ -26,7 +26,7 @@ In this assignment we were able to find data about the unemployment rate from St
 To answer the research question we used data of two different sources.
 
 **Unemployment rate**  
-First of all we used data about the unemployment rate. This data is gathered from Statistics Netherlands (CBS). We looked at the data from 2010 to 2015 and looked at the unemployment rate on a monthly basis.
+First of all we used data about the unemployment rate. This data is gathered from [Statistics Netherlands (CBS)](http://statline.cbs.nl/Statweb/publication/?DM=SLNL&PA=80590ned&D1=10,12,14&D2=0&D3=0&D4=91-102,104-115,117-128,130-141,143-154,156-167,169-180&HDR=T&STB=G1,G2,G3&VW=T). We looked at the data from 2010 to 2015 and looked at the unemployment rate on a monthly basis.
 
 **Google Trends**  
 The other source we used is Google Trends. We use index numbers for the amount of searches for specific words, that we think people will search for when they are unemployed. We have choosen 6 words, where some of them indicate search for unemployment benefits and others indicate searches for a new job.
