@@ -22,7 +22,8 @@ In this assignment we were able to find data about the unemployment rate from St
 ##Main assumptions
 
 ##Importing packages and libraries
-We used the following packages to run the model.  
+We used the following packages to run the model. 
+
 **_Show packages and libraries_**
 
 ##Data
