@@ -14,7 +14,7 @@ In this research however we want to take a look at another important problem of 
 This study begins with a short summary about the method and the answer on the research question. Then we will give a more detailed explanation about the main assumptions and the data we used. This is followed by the results. We will end this study with a conclusion and discussion.
 
 ##Method
-In this assignment we were able to find [data](https://github.com/ManonWaals/assignments/blob/master/Python.md#data) about both the unemployment rate in the Netherlands as well as data from google searching/google trends. For the unemployment rate we gathered data from Statistics Netherlands (CBS). For the google searching we decided to pick 6 words that we think are related with either unemployment or finding a new job. _blablabla.. wat we nog meer doen met data om tot antwoord te komen_
+In this assignment we were able to find [data](https://github.com/ManonWaals/assignments/blob/master/Python.md#data) about both the unemployment rate in the Netherlands as well as data from google searching/google trends. For the unemployment rate we gathered data from Statistics Netherlands (CBS). For the google searching we decided to pick 6 words that we think are related with either unemployment or finding a new job. After acquiring the data we calculated an average index of the 6 words we picked. All words got an equal weight. After plotting the average index we made a graph with both the unemployment rate and the index. To answer the research question we are going to compare both lines and search for similarities between these lines.
 
 ##Answer
 
