@@ -1,8 +1,8 @@
 #The effect of google search on actual unemployment
 **Members of the group:**
-* Bob Kruithof (864015)
-* Muriël Verbeek (ANR)
-* Manon Waals (402655)
+* Bob Kruithof (864015/ U)
+* Muriël Verbeek (422847/ U1244083)
+* Manon Waals (402655/ U1257694)
 
 ##Research question
 Can we predict the unemployment rate in the Netherlands with google searching? / Is there a correlation between google searching and the actual unemployment rate in the Netherlands?
@@ -20,6 +20,9 @@ In this assignment we were able to find [data](https://github.com/ManonWaals/ass
 
 
 ##Main assumptions
+* We assume that the words we pick from google trends are the most important words people search for.
+* We assume that all words we pick are equally important and therefore get the same weight.
+* We use the unemployment rate in the Netherlands which is adjusted for seasonal effects. We think that people who work only one season won't search for the words we pick.
 
 ##Importing packages and libraries
 We used the following packages to run the model. 
