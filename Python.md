@@ -38,7 +38,7 @@ First of all we used data about the unemployment rate. This data is gathered fro
 **_Show data from unemployment rate in tabel and show the graph_**
 
 **Google Trends**  
-The other source we used is [Google Trends](https://www.google.nl/trends/). We use index numbers for the amount of searches for specific words, that we think people will search for when they are unemployed. We have choosen 6 words, where some of them indicate search for unemployment benefits and others indicate searches for a new job. As for the unemployment rate we looked at the data from 2010 to 2015 in the Netherlands. We decided to use the following words: 'nieuwe baan' ('new job'), 'CV' ('resume'), 'vacatures' ('vacancies'), 'uwv' (an institution that helps unemployed people in the Netherlands to find a job), 'werkloosheid' ('unemployment') and 'werkloos' ('unemployed').
+The other source we used is [Google Trends](https://www.google.nl/trends/). We use index numbers for the amount of searches for specific words, that we think people will search for when they are unemployed. We have choosen 6 words, where some of them indicate search for unemployment benefits and others indicate searches for a new job. As for the unemployment rate we looked at the data from 2010 to 2015 in the Netherlands. We decided to use the following words: 'nieuwe baan' ('new job'), 'CV' ('resume'), 'vacatures' ('vacancies'), 'uwv' (an institution that helps unemployed people in the Netherlands to find a job), 'uitkering' ('social security') and 'werkloos' ('unemployed').
 
 **_Show data from google trends in tabel and show simple graph_**
 
