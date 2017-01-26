@@ -43,7 +43,7 @@ The other source we used is [Google Trends](https://www.google.nl/trends/). We u
 **_Show data from google trends in tabel and show simple graph_**
 
 ##Results
-
+**_Show the graph with the two lines_**
 
 ##Conlusion and Discussion
 
