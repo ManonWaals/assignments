@@ -1,8 +1,8 @@
 #The effect of Google trends on actual unemployment
 **Members of the group:**
-* Bob Kruithof (864015 / U1257965)
-* Muriël Verbeek (422847 / U1244083)
-* Manon Waals (402655 / U1257694)
+* [Bob Kruithof](https://github.com/BobKruithof) (864015 / U1257965)
+* [Muriël Verbeek](https://github.com/MurielVerbeek) (422847 / U1244083) 
+* [Manon Waals](https://github.com/ManonWaals) (402655 / U1257694)
 
 ##Research question
 Can we predict the unemployment rate in the Netherlands using data from Google trends?
