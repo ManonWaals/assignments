@@ -46,7 +46,8 @@ The other source we used is [Google Trends](https://www.google.nl/trends/). We u
 
 
 ##Conlusion
-
+As showed in the results, it is indeed possible to use Google trends to obtain information on the 
+ This can usefull since Google trends data is available the moment it is being produced, while unemployment data often is announced with a certain lag. Thus, suppose that according to the Google trends data the unemployment has risen in this period, it might be usefull for policymakers to adapt a certain policy battling the unemployment. This policy can be adapted sooner than normal due to the use of Google trends.
 
 ##Discussion
 Google trends fluctuate much and because of this our Google trends index has much more peaks and dips than the unemployment rate. We believe this is because unemployment rates are mcuh less easier to change than the amount of people looking at specific topics on Google, so the Google trends data is much more volatile than the unemploment rate. It would be beneficial to our research if we would be able to smooth the data that we obtained from Google trends in order to make it easier to compare it with the unemployment rates.
