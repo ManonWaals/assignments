@@ -53,3 +53,5 @@ As showed in the results, it is indeed possible to use Google trends to obtain i
 
 ##Discussion
 Google trends fluctuate much and because of this our Google trends index has much more peaks and dips than the unemployment rate. We believe this is because unemployment rates are mcuh less easier to change than the amount of people looking at specific topics on Google, so the Google trends data is much more volatile than the unemploment rate. It would be beneficial to our research if we would be able to smooth the data that we obtained from Google trends in order to make it easier to compare it with the unemployment rates.
+
+We would advice policy makers to use Google trends to be able to react to changes in the unemployment rate more quickly.
