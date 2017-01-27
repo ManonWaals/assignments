@@ -48,7 +48,7 @@ The other source we used is [Google Trends](https://www.google.nl/trends/). We u
 
 
 ##Conlusion
-As showed in the results, it is indeed possible to use Google trends to obtain information on the future unemployment rate earlier than when using the data on the unemployment rate from the CBS. So we are indeed able to predict the unemployment rate in the Netherlands using data from Google trends. However, this is a very short run prediction of only a couple of weeks. For longer time predictions.....
+As showed in the results, it is indeed possible to use Google trends to obtain information on the future unemployment rate earlier than when using the data on the unemployment rate from the CBS. So we are indeed able to predict the unemployment rate in the Netherlands using data from Google trends. However, this is a very short term prediction of only a couple of weeks. For longer run predictions.....
 **_add long time predictions_**
 
 
