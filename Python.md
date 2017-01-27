@@ -15,9 +15,11 @@ This study begins with a short summary of the method and the answer to the resea
 
 ##Method
 In this assignment we were able to find [data](https://github.com/ManonWaals/assignments/blob/master/Python.md#data) about both the unemployment rate in the Netherlands as well as data from Google trends. For the unemployment rate we gathered data from Statistics Netherlands (CBS). For the Google trends we decided to pick 6 words that we think are related with either unemployment or finding a new job. After acquiring the data we calculated an average index of the 6 words we picked. All words got an equal weight. After plotting the average index we made a graph with both the unemployment rate and the index. To find whether we can predict the unemployment rate in the Netherlands using data from Google trends, we plot the data from both the unemployment rate and the Google trends to see whether the data has a comparable trend. Then we try to figure out whether we are able to not only compare the historic trends, but also see if we can use the historic data to predict the future. We do this by regressing the Google trends on the unemployment and using these coefficients to predict the future. **(??)**
+**_add method for long term predictions_**
 
 ##Answer
-
+We are indeed able to predict the unemployment rate in the Netherlands using data from Google trends when looking at the short term future.
+**_add long term predictions answer_**
 
 ##Main assumptions
 * We assume that the words we pick from Google trends are the most important words people search for.
@@ -46,8 +48,9 @@ The other source we used is [Google Trends](https://www.google.nl/trends/). We u
 
 
 ##Conlusion
-As showed in the results, it is indeed possible to use Google trends to obtain information on the 
- This can usefull since Google trends data is available the moment it is being produced, while unemployment data often is announced with a certain lag. Thus, suppose that according to the Google trends data the unemployment has risen in this period, it might be usefull for policymakers to adapt a certain policy battling the unemployment. This policy can be adapted sooner than normal due to the use of Google trends.
+As showed in the results, it is indeed possible to use Google trends to obtain information on the future unemployment rate earlier than when using the data on the unemployment rate from the CBS. So we are indeed able to predict the unemployment rate in the Netherlands using data from Google trends. However, this is a very short run prediction of only a couple of weeks. For longer time predictions.....
+**_add long time predictions_**
+
 
 ##Discussion
 Google trends fluctuate much and because of this our Google trends index has much more peaks and dips than the unemployment rate. We believe this is because unemployment rates are mcuh less easier to change than the amount of people looking at specific topics on Google, so the Google trends data is much more volatile than the unemploment rate. It would be beneficial to our research if we would be able to smooth the data that we obtained from Google trends in order to make it easier to compare it with the unemployment rates.
