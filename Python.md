@@ -24,8 +24,6 @@ We are indeed able to predict the unemployment rate in the Netherlands using dat
 
 ##Main assumptions
 * We assume that the words we pick from Google trends are the most important words people search for.
-* We assume that all words we pick are equally important and therefore get the same weight.
-* We use the unemployment rate in the Netherlands which is adjusted for seasonal effects. We think that people who work only one season won't search for the words we pick.
 
 ##Importing packages and libraries
 We used the following packages to run the model. 
@@ -33,7 +31,7 @@ We used the following packages to run the model.
 **_Show packages and libraries_**
 
 ##Data
-To answer the research question we used data of two different sources.
+To answer the research question we used data from two different sources.
 
 **Unemployment rate**  
 First of all we used data about the unemployment rate. This data is gathered from [Statistics Netherlands (CBS)](http://statline.cbs.nl/Statweb/publication/?DM=SLNL&PA=80590ned&D1=10,12,14&D2=0&D3=0&D4=91-102,104-115,117-128,130-141,143-154,156-167,169-180&HDR=T&STB=G1,G2,G3&VW=T). We decided to look at the data from 2010 to 2015 and looked at the unemployment rate on a monthly basis. The unemployment rate we took is not corrected for seasonal unemployment as the Google trends data is also not corrected for seasonal fluctuations.
@@ -41,7 +39,7 @@ First of all we used data about the unemployment rate. This data is gathered fro
 **_Show data from unemployment rate in tabel and show the graph_**
 
 **Google Trends**  
-The other source we used is [Google Trends](https://www.google.nl/trends/). We use index numbers for the amount of searches for specific words, that we think people will search for when they are unemployed. We have choosen 6 words, where some of them indicate search for unemployment benefits and others indicate searches for a new job. We decided to use the following words: 'nieuwe baan' ('new job'), 'CV' ('resume'), 'vacatures' ('vacancies'), 'uwv' (an institution that helps unemployed people in the Netherlands to find a job), 'uitkering' ('social security') and 'werkloos' ('unemployed'). For all words, we checked whether they could be associated with something different than unemployment. We found that this was only the case for 'CV' as people searching for this term also sometimes meant to search for boilers which are CV ketels in Dutch. To make sure that we only used the data of people that were searching for resume, we specified the 'CV' Google trend to the category 'vacancies and education'. As for the unemployment rate we looked at the data from 2010 to 2015 in the Netherlands.
+The other source we use is [Google Trends](https://www.google.nl/trends/). We use index numbers for the amount of searches for specific words, that we think people will search for when they are unemployed. We have choosen 6 words, some of them indicate searches for unemployment benefits and others indicate searches for a new job. We decided to use the following words: 'nieuwe baan' ('new job'), 'CV' ('resume'), 'vacatures' ('vacancies'), 'uwv' (an institution that helps unemployed people in the Netherlands to find a job), 'uitkering' ('social security') and 'werkloos' ('unemployed'). For all words, we checked whether they could be associated with something different than unemployment. We found that this was only the case for 'CV' as people searching for this term also sometimes meant to search for boilers which are CV ketels in Dutch. To make sure that we only used the data of people that were searching for resume, we specified the 'CV' Google trend to the category 'vacancies and education'. As for the unemployment rate we looked at the data from 2010 to 2015 in the Netherlands.
 
 **_Show data from Google trends in tabel and show simple graph_**
 
