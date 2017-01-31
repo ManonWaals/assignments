@@ -8,7 +8,7 @@ This repository contains my assignments
 
 Python Assignment:
 
-[HTML] (https://htmlpreview.github.io/?https://github.com/ManonWaals/assignments/blob/master/Python%20assignment.html)
+[Our assignment (HTML)] (https://htmlpreview.github.io/?https://github.com/ManonWaals/assignments/blob/master/Python%20assignment.html)
 
 
 
